@@ -20,6 +20,6 @@ I like tables:
 | 2.3 | 3.4 | 555 | 43 |
 | Apryl | Salomaa |
 
-![IMG_6021] width="137"(https://user-images.githubusercontent.com/112103994/187476196-b25e16dd-b8fd-4f09-97a0-2d78ff295bba.jpg)
+![IMG_6021](https://user-images.githubusercontent.com/112103994/187476196-b25e16dd-b8fd-4f09-97a0-2d78ff295bba.jpg) width="137"
 
 <img width="137" alt="Screen Shot 2022-08-29 at 11 25 38 AM" src="https://user-images.githubusercontent.com/2119795/187476018-6332ee74-9bdf-48f5-ac76-d010c300db1d.png">
