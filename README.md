@@ -17,3 +17,4 @@ I like tables:
 | This is | the header | of my new | table |
 | --- | --- | --- | --- |
 | I can | write | anything | here |
+| 2.3 | 3.4 | 555 | 43 |
