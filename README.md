@@ -6,7 +6,7 @@
 
 ~~I do not like coding~~
 
-**This is both italics and bold**
+_**This is both italics and bold**_
 
 **This is bold with a _WORD_ only italics**
 
